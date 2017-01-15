@@ -45,3 +45,12 @@ Run quickstart project using following commands:
     cd quickstart
     npm install
     npm start
+    
+### The Hero Editor Tutorial
+Clone quickstart project using following command: 
+
+    git clone https://github.com/angular/quickstart.git angular-tour-of-heroes
+    
+Now you have a template Angular project. Continue the tutorial using following link:
+
+https://angular.io/docs/ts/latest/tutorial/toh-pt1.html#!#show-our-hero
