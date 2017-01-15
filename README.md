@@ -12,3 +12,17 @@ Refer to https://github.com/angular/angular-cli/blob/master/README.md for usage 
 https://angular.io/resources/live-examples/quickstart/ts/eplnkr.html
 
 You can play with quickstart example code using your browser. Plunker will reflect code changes on the fly.
+
+### Angular Architecture
+https://angular.io/docs/ts/latest/guide/architecture.html
+
+This document describes Angular's 8 main building blocks:
+- Modules
+-  Components
+-   Templates
+-   Metadata
+-   Data binding
+-   Directives
+-   Services
+-   Dependency injection
+
