@@ -26,3 +26,11 @@ This document describes Angular's 8 main building blocks:
 -   Services
 -   Dependency injection
 
+### Angular Setup
+#### Node Installation
+https://docs.npmjs.com/getting-started/installing-node
+
+Angular requires `node` and `npm` tools. You need node v4 or higher and npm v3 or higher. You can verify whether you have these tools installed using following commands:
+
+    node -v
+    npm -v
