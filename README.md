@@ -45,4 +45,3 @@ Run quickstart project using following commands:
     cd quickstart
     npm install
     npm start
-https://angular.io/docs/ts/latest/guide/setup.html#!#clone
