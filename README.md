@@ -47,7 +47,7 @@ Run quickstart project using following commands:
     npm start
     
 ### The Hero Editor Tutorial
-Clone quickstart project using following command: 
+"The Hero Editor" tutorial is a perfect tutorial for learning Angular 2. First of all, clone the quickstart project using following command: 
 
     git clone https://github.com/angular/quickstart.git angular-tour-of-heroes
     
