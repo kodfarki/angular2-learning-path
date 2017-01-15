@@ -34,3 +34,6 @@ Angular requires `node` and `npm` tools. You need node v4 or higher and npm v3 o
 
     node -v
     npm -v
+    
+#### Clone Angular Quickstart Project
+https://angular.io/docs/ts/latest/guide/setup.html#!#clone
