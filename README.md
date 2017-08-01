@@ -13,7 +13,7 @@ https://angular.io/resources/live-examples/quickstart/ts/eplnkr.html
 
 You can play with quickstart example code using your browser. Plunker will reflect code changes on the fly.
 
-### Angular Architecture
+### Angular Architecture
 https://angular.io/docs/ts/latest/guide/architecture.html
 
 This document describes Angular's 8 main building blocks:
@@ -26,8 +26,8 @@ This document describes Angular's 8 main building blocks:
 -   Services
 -   Dependency injection
 
-### Angular Setup
-#### Node Installation
+### Angular Setup
+#### Node Installation
 https://docs.npmjs.com/getting-started/installing-node
 
 Angular requires `node` and `npm` tools. You need node v4 or higher and npm v3 or higher. You can verify whether you have these tools installed using following commands:
@@ -35,7 +35,7 @@ Angular requires `node` and `npm` tools. You need node v4 or higher and npm v3 o
     node -v
     npm -v
     
-#### Clone Angular Quickstart Project
+#### Clone Angular Quickstart Project
 Clone quickstart project using following command: 
 
     git clone https://github.com/angular/quickstart.git quickstart
@@ -46,7 +46,7 @@ Run quickstart project using following commands:
     npm install
     npm start
     
-### The Hero Editor Tutorial
+### The Hero Editor Tutorial
 "The Hero Editor" tutorial is a perfect tutorial for learning Angular 2. First of all, clone the quickstart project using following command: 
 
     git clone https://github.com/angular/quickstart.git angular-tour-of-heroes
