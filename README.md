@@ -1,4 +1,4 @@
-# angular2-learning-path
+# learn-angular
 Angular 2 resources, tutorials, examples for newbies.
 
 ## Angular-CLI
